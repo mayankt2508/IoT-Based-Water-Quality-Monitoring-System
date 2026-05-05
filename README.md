@@ -60,6 +60,5 @@ I specialize in building custom hardware prototypes, IoT dashboards, and reverse
 
 * 🔗 **LinkedIn:** www.linkedin.com/in/mayank-thakkar-6545b82a6
 * 📧 **Email:** thakkarmayank82@gmail.com
-* 💻 **GitHub:** [Insert your GitHub Profile Link Here]
-
+* 💻 **GitHub:** https://github.com/mayankt2508
 *If you are looking to build a custom IoT solution or need help with embedded C++ development, feel free to reach out!*
