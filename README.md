@@ -55,4 +55,4 @@ Create four Virtual Datastreams in your Blynk Template:
 
 ## 👨‍💻 Author
 **Mayank Thakkar**
-*   **LinkedIn:** [Link to your profile]
+*   **LinkedIn:** www.linkedin.com/in/mayank-thakkar-6545b82a6
