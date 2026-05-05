@@ -51,8 +51,15 @@ Create four Virtual Datastreams in your Blynk Template:
 *   **V2:** Turbidity (`Double`, 0-5.0)
 *   **V3:** pH Level (`Double`, 0-14.0)
 
-*(Configure Automations in the Blynk Console to trigger notifications based on specific threshold limits).*
+*(Configured Automations in the Blynk Console to trigger notifications based on specific threshold limits).*
 
 ## 👨‍💻 Author
 **Mayank Thakkar**
-*   **LinkedIn:** www.linkedin.com/in/mayank-thakkar-6545b82a6
+*Embedded Systems & IoT Developer*
+I specialize in building custom hardware prototypes, IoT dashboards, and reverse-engineering sensor calibrations for freelance commissions and academic projects. 
+
+* 🔗 **LinkedIn:** www.linkedin.com/in/mayank-thakkar-6545b82a6
+* 📧 **Email:** thakkarmayank82@gmail.com
+* 💻 **GitHub:** [Insert your GitHub Profile Link Here]
+
+*If you are looking to build a custom IoT solution or need help with embedded C++ development, feel free to reach out!*
