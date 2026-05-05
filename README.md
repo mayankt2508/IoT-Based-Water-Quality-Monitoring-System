@@ -55,7 +55,9 @@ Create four Virtual Datastreams in your Blynk Template:
 
 ## 👨‍💻 Author
 **Mayank Thakkar**
+
 *Embedded Systems & IoT Developer*
+
 I specialize in building custom hardware prototypes, IoT dashboards, and reverse-engineering sensor calibrations for freelance commissions and academic projects. 
 
 * 🔗 **LinkedIn:** www.linkedin.com/in/mayank-thakkar-6545b82a6
